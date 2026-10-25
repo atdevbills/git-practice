@@ -4,3 +4,5 @@ What's up ChatGPT
 I am learning Git!
 I am learnig git step by step
 My first ever branch feature
+## About Me
+I am learning web development and Git.
